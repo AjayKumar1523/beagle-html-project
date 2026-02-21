@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000;
+}
+
+/* Section 1 */
+.top-section {
+    border: 1px solid black;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.top-section h1 {
+    margin-top: 0;
+}
+
+.top-section a {
+    color: blue;
+    text-decoration: underline;
+}
+
+/* Section 2 */
+.image-section {
+    margin-bottom: 20px;
+}
+
+.image-section img {
+    width: 300px;
+    height: auto;
+    display: block;
+}
+
+.image-section a {
+    color: blue;
+    text-decoration: underline;
+}
+
+/* Section 3 */
+.trivia-section h2 {
+    margin-bottom: 10px;
+}
+
+.trivia-section ol {
+    padding-left: 20px;
+}
